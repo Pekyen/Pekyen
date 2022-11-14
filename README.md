@@ -1,6 +1,6 @@
 <h1 align="center">Hello there👋 I'm Loo Pek Yen</h1>
 
-<h3 align="center">Computer Science (Data Analytics) Student @ Asia Pacific University</h3>
+<h3 align="center">Computer Science (Data Analytics) Student @ Asia Pacific University</h3><br>
 
 - 📫 Reach me at **pekyen100@hotmail.com**
 
