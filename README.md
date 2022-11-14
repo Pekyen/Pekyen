@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hello there👋 I'm Loo Pek Yen</h1>
+
+<h3 align="center">Computer Science (Data Analytics) Student @ Asia Pacific University</h3>
+
+- 📫 Reach me at **pekyen100@hotmail.com**
+
+- 💬 Connect with me at www.linkedin.com/in/loo-pek-yen/
 
 <!--
 **Pekyen/Pekyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
